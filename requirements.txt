@@ -1,1 +1,1 @@
-snowflake-connector-python==3.0.1
+-r https://raw.github.com/JadeKulRam/streamlitRepo/v3.0.1/tested_requirements/requirements.reqs
