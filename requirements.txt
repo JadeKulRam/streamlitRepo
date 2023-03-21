@@ -1,1 +1,1 @@
--r https://raw.githubusercontent.com/JadeKulRam/streamlitRepo/v3.0.1/tested_requirements/requirements.reqs
+-r https://raw.githubusercontent.com/JadeKulRam/streamlitRepo/requirements.reqs
